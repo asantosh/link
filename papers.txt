@@ -1,0 +1,3 @@
+HECK : Linux kernel module
+
+http://www.cis.syr.edu/~wedu/Research/paper/heckacsac04.pdf
