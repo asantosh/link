@@ -1,3 +1,5 @@
 HECK : Linux kernel module
+    http://www.cis.syr.edu/~wedu/Research/paper/heckacsac04.pdf
 
-http://www.cis.syr.edu/~wedu/Research/paper/heckacsac04.pdf
+Interesting Ideas, Fun Facts, Games, Brainteasers, Magic and More
+http://www.blifaloo.com/
