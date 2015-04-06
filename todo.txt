@@ -3,3 +3,8 @@ HECK : Linux kernel module
 
 Interesting Ideas, Fun Facts, Games, Brainteasers, Magic and More
 http://www.blifaloo.com/
+
+Update on
+        1. rpl_malloc and rpl_realloc error
+        2. lib/libc.so not found error
+        3. lib64/libpthread.so not found error
